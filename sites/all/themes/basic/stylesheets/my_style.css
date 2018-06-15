@@ -1,0 +1,9 @@
+/* line 1, ../sass/my_style.sass */
+body {
+  background: black;
+}
+
+/* line 4, ../sass/my_style.sass */
+#page {
+  color: pink;
+}
